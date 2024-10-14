@@ -1,7 +1,7 @@
 package com.app.gestionTareas.controller;
 
 import com.app.gestionTareas.model.Task;
-import com.app.gestionTareas.TaskService;
+import com.app.gestionTareas.service.TaskService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

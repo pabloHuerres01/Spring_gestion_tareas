@@ -1,7 +1,8 @@
 package com.app.gestionTareas.service;
 
-import ccom.app.gestionTareas.model;
-import com.app.tareas.repository.TaskRepository;
+import com.app.gestionTareas.model.Task;
+import com.app.gestionTareas.repositorio.TaskRepository;
+
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

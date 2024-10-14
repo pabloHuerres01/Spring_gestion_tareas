@@ -1,0 +1,5 @@
+com/app/gestionTareas/GestionTareasApplication.class
+com/app/gestionTareas/service/TaskService.class
+com/app/gestionTareas/model/Task.class
+com/app/gestionTareas/controller/TaskController.class
+com/app/gestionTareas/repositorio/TaskRepository.class
