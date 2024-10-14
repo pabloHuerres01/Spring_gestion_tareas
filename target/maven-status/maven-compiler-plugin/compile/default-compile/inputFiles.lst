@@ -1,5 +1,7 @@
 /home/pablo/proyectos personales/gestion_tareas/src/main/java/com/app/gestionTareas/GestionTareasApplication.java
+/home/pablo/proyectos personales/gestion_tareas/src/main/java/com/app/gestionTareas/config/SecurityConfig.java
 /home/pablo/proyectos personales/gestion_tareas/src/main/java/com/app/gestionTareas/controller/TaskController.java
 /home/pablo/proyectos personales/gestion_tareas/src/main/java/com/app/gestionTareas/model/Task.java
 /home/pablo/proyectos personales/gestion_tareas/src/main/java/com/app/gestionTareas/repositorio/TaskRepository.java
 /home/pablo/proyectos personales/gestion_tareas/src/main/java/com/app/gestionTareas/service/TaskService.java
+/home/pablo/proyectos personales/gestion_tareas/src/main/java/com/app/gestionTareas/web/WebController.java

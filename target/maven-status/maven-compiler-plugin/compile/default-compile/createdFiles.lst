@@ -1,5 +1,7 @@
-com/app/gestionTareas/GestionTareasApplication.class
 com/app/gestionTareas/service/TaskService.class
 com/app/gestionTareas/model/Task.class
-com/app/gestionTareas/controller/TaskController.class
 com/app/gestionTareas/repositorio/TaskRepository.class
+com/app/gestionTareas/config/SecurityConfig.class
+com/app/gestionTareas/web/WebController.class
+com/app/gestionTareas/GestionTareasApplication.class
+com/app/gestionTareas/controller/TaskController.class
